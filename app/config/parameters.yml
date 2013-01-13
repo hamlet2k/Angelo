@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: localhost
+    database_port: null
+    database_name: angelo
+    database_user: hamlet2k
+    database_password: petronas
+    mailer_transport: smtp
+    mailer_host: localhost
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 16ce43c987717afdd1ac91ea05ca0cbc58065cb0
+    database_path: null
