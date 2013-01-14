@@ -17,3 +17,6 @@
 50f3379771eba,127.0.0.1,GET,http://angelo.local.com/app_dev.php/demo/secured/hello/World,1358116759,
 50f3379846a99,127.0.0.1,GET,http://angelo.local.com/app_dev.php/demo/secured/login,1358116760,
 50f337b00d542,127.0.0.1,GET,http://angelo.local.com/app_dev.php/demo/secured/login,1358116784,
+50f353fdebf94,127.0.0.1,GET,http://angelo.local.com/app_dev.php/hello/Gordita,1358124029,
+50f3601acfa90,127.0.0.1,GET,http://angelo.local.com/app_dev.php/hello/Gordita,1358127130,
+50f36044c2320,127.0.0.1,GET,http://angelo.local.com/app_dev.php/hello/Gordita,1358127172,
